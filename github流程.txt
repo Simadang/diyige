@@ -1,0 +1,16 @@
+克隆路径:git clone https://github.com/Simadang/diyige.git
+
+链接组长: git remote add (组名:diyige) (地址:https://github.com/Simadang/diyige)
+
+查看:git remote -v
+
+创建并进入分支:git checkout -b (分支名:gjl)
+
+上传文件:git add 1.txt
+	 
+	 git commit -m "备注"
+
+	 git push (组名:diyige) (分支名:gjl)
+
+导出文件:git pull diyige cj
+
